@@ -1,0 +1,23 @@
+Ex3A_ReviewingSurveyResults.txt
+
+
+1. What conclusion can you reach about the responses to this question?
+  -everyone went to high school and everyone is at least 18yo
+
+2. Is the default summary or visualization helpful? How could it be improved?
+
+3. For questions with an “Other” option, where can you find the actual text of those
+responses? Do you notice anything that might be tricky about analyzing these?
+    -Yes because everyone has a different answer so it would be hard to group things that are unspecific.
+
+4. For questions calling for a written response, what challenges do you notice about
+finding trends or patterns in the answers provided? 
+  -It is mostly dirty data alot of the answers are different so you have to convert if you can or just use what you have which may be hard.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or
+question or the response options in a future survey? 
+   -I would be more specific like asking for height in ft or cm only or when doing a timeline ask for months instead of just how long.
+
+
+
+(Since the questions in the survey are not specifically the ones asked in exercise 1A I am not able to answer all questions in this exercise.)
