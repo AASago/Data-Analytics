@@ -1,0 +1,45 @@
+1. Before doing any other investigation, list two or three questions that this infographic
+and explanation of methodology raise in your mind.
+   Q. 	Would the outcome be different if other sources were used?
+   Q. just because someone is searching these foods does that mean they are really buying them ?
+  
+
+
+2. Where can you find Google Trends search data? Provide the URL.
+    -https://trends.google.com/trends/
+
+
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+
+   -Shakes highest is 100
+
+b) What is the lowest dip recorded?
+
+  	The lowest was 67 
+
+4.a) What is the highest peak recorded for searches using Hamburger? What is the
+lowest dip?
+ 
+-The highest is 100 the lowest is 72 
+
+b) What happened to the line for Milkshake? What do the high and low look like now?
+  
+-The line for milkshakes went completely down compared to hamburgers
+
+5. Why did the line for Milkshake change? 
+    -The line for milkshake is lower because people were more interested in burgers at that time 
+
+6.a) Do you see any patterns that suggest a relationship between searches for Breakup
+and Hamburger? Hamburger is higher than breakup 
+  
+b) How about between Breakup and Milkshake?
+  -Both lines are low and the same 
+
+7. What does all of this suggest about the reliability of the conclusions reached in the
+article?
+  -It suggest that the articles research is not credible because breakup and milkshake is lower than hamburger
+
+8.a) What was the top state by interest for Milkshake?
+  -Pennsylvania 
+b) What was the top state by interest for Hamburger?
+    -South Dakota 
